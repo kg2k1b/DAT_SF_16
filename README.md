@@ -37,7 +37,7 @@ Week | Monday                                              | Wednesday
 ---  | ---                                                 | ---
      | **UNIT 1**                                          | **DATA**
  1   |                                                     | 7/29: [Introduction to Data Science](lectures/lec01.pdf), [Git setup](lectures/lec01_git_setup.pdf)
- 2   | 8/3:  Data Format, Access & Transformation          | 8/5: Cleaning and exploring data
+ 2   | 8/3:  Data Format, Access & Transformation + Python review (lectures/lec02.pdf)     | 8/5: Cleaning and exploring data
      |                                                     |
      | **UNIT 2**                                          | **MACHINE LEARNING**
  3   | 8/10: Introduction to Machine learning, Classification with K-Nearest Neighbors | 8/12: Naïve Bayes
