@@ -37,7 +37,7 @@ Week | Monday                                              | Wednesday
 ---  | ---                                                 | ---
      | **UNIT 1**                                          | **DATA**
  1   |                                                     | 7/29: [Introduction to Data Science](lectures/lec01.pdf), [Git setup](lectures/lec01_git_setup.pdf)
- 2   | 8/3:  Data Format, Access & Transformation + Python review (lectures/lec02.pdf)     | 8/5: Cleaning and exploring data
+ 2   | 8/3:  [Data Format, Access & Transformation + Python review](lectures/lec02.pdf)     | 8/5: [Cleaning and exploring data + Linear Algebra review](lectures/lec03.pdf) 
      |                                                     |
      | **UNIT 2**                                          | **MACHINE LEARNING**
  3   | 8/10: Introduction to Machine learning, Classification with K-Nearest Neighbors | 8/12: Naïve Bayes
@@ -48,7 +48,7 @@ Week | Monday                                              | Wednesday
      | **UNIT 3**                                          | **APPLICATIONS**
  7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: Dimensionality Reduction 
  8   | 9/14: Recommendation systems                        | 9/16: Natural Language Processing and Text Mining
- 9   | 9/21: Graph Databases, Network Analysis             | 9/23: Neural Networks, Deep learning
+ 9   | 9/21: Network Analysis             | 9/23: Neural Networks, Deep learning
  10  | 9/28: Time Series Analysis                          |
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
