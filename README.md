@@ -40,7 +40,7 @@ Week | Monday                                              | Wednesday
  2   | 8/3:  [Data Format, Access & Transformation + Python review](lectures/lec02.pdf)     | 8/5: [Cleaning and exploring data + Linear Algebra review](lectures/lec03.pdf) 
      |                                                     |
      | **UNIT 2**                                          | **MACHINE LEARNING**
- 3   | 8/10: Introduction to Machine learning, Classification with K-Nearest Neighbors | 8/12: Naïve Bayes
+ 3   | 8/10: [Introduction to Machine learning, Classification with K-Nearest Neighbors](lectures/lec04.pdf) | 8/12: Naïve Bayes
  4   | 8/17: Regression and Regularization                 | 8/19: Logistic Regression 
  5   | 8/24: Imbalanced Classes and Evaluation Metrics     | 8/26: Advanced Classifiers
  6   | 8/31: Ensemble Techniques                           | 9/2: K-Means Clustering and Unsupervised learning
@@ -62,9 +62,9 @@ Week | Monday                                              | Wednesday
 HW       | Topics                           | Dataset | Assigned | Due   | Review Due
 ---      | ---                              | ---     | ---      | ---   | ---
 1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 7/29     |  8/3  |  8/5
-2        | Data Exploration                 | Titanic | 8/5      |  8/10 |  8/12
-3        | Classification, Cross Validation |         | 8/12     |  8/17 |  8/19
-4        | Classification                   |         | 8/19     |  8/24 |  8/26
+2        | [Data Exploration](homework/HW2_assignment.pdf)                  |         | 8/5      |  8/10 |  8/12
+3        | Classification                   | Titanic | 8/12     |  8/17 |  8/19
+4        | Classification, Cross Validation |         | 8/19     |  8/24 |  8/26
 5        | Classification, Evaluation       |         | 8/26     |  8/31 |  9/2
 Midterm  | -------------                    |         | 8/31     |  9/9  |  9/11
 6        | Clustering & Dim Reduction       |         | 9/9      |  9/14 |  9/16
