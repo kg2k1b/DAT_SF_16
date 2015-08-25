@@ -42,7 +42,7 @@ Week | Monday                                              | Wednesday
      | **UNIT 2**                                          | **MACHINE LEARNING**
  3   | 8/10: [Introduction to Machine learning, Classification with K-Nearest Neighbors](lectures/lec04.pdf) | 8/12: [Cross Validation and Naïve Bayes](lectures/lec05.pdf)
  4   | 8/17: [Regression and Regularization](lectures/lec06.pdf) | 8/19: [Logistic Regression](lectures/lec07.pdf)
- 5   | 8/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec08.pdf)     | 8/26: Advanced Classifiers
+ 5   | 8/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec08.pdf)     | 8/26: [Advanced Classifiers](lectures/lec09.pdf)
  6   | 8/31: Ensemble Techniques                           | 9/2: K-Means Clustering and Unsupervised learning
      |                                                     |
      | **UNIT 3**                                          | **APPLICATIONS**
