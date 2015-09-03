@@ -43,12 +43,12 @@ Week | Monday                                              | Wednesday
  3   | 8/10: [Introduction to Machine learning, Classification with K-Nearest Neighbors](lectures/lec04.pdf) | 8/12: [Cross Validation and Naïve Bayes](lectures/lec05.pdf)
  4   | 8/17: [Regression and Regularization](lectures/lec06.pdf) | 8/19: [Logistic Regression](lectures/lec07.pdf)
  5   | 8/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec08.pdf)     | 8/26: [Advanced Classifiers](lectures/lec09.pdf)
- 6   | 8/31: [Ensemble Techniques](lectures/lec10.pdf)                           | 9/2: [K-Means Clustering and Unsupervised learning](lectures/lec11.pdf)
+ 6   | 8/31: [Ensemble Techniques](lectures/lec10.pdf)                           | 9/2: Review of classification and regression
      |                                                     |
      | **UNIT 3**                                          | **APPLICATIONS**
- 7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: Dimensionality Reduction 
- 8   | 9/14: Recommendation systems                        | 9/16: Natural Language Processing and Text Mining
- 9   | 9/21: Network Analysis             | 9/23: Neural Networks, Deep learning
+ 7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: [K-Means Clustering and Unsupervised learning](lectures/lec12.pdf)
+ 8   | 9/14: [Dimensionality Reduction](lectures/lec13.pdf) | 9/16: Recommendation systems
+ 9   | 9/21: Natural Language Processing and Text Mining | 9/23: Network Analysis OR Neural Networks, Deep learning
  10  | 9/28: Time Series Analysis                          |
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
@@ -77,8 +77,8 @@ Midterm  | -------------                    |         | 8/31     |  9/9  |  9/11
 FP       | Deliverable            | Due  
 ---      | ---                    | ---  
 1        | Title & Data Sources   | 8/19 
-2        | Elevator Pitch         | 8/31 
-3        | Draft Analysis         | 9/23  
+2        | Elevator Pitch         | 9/2
+3        | Draft Analysis         | 9/23
 8        | Final Project Due      | 10/14
 
 ### Office Hours
