@@ -47,9 +47,9 @@ Week | Monday                                              | Wednesday
      |                                                     |
      | **UNIT 3**                                          | **APPLICATIONS**
  7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: [K-Means Clustering and Unsupervised learning](lectures/lec12.pdf)
- 8   | 9/14: [Dimensionality Reduction](lectures/lec13.pdf) | 9/16: Recommendation systems
- 9   | 9/21: Natural Language Processing and Text Mining | 9/23: Network Analysis OR Neural Networks, Deep learning
- 10  | 9/28: Time Series Analysis                          |
+ 8   | 9/14: [Dimensionality Reduction](lectures/lec13.pdf) | 9/16: [Recommendation systems](lectures/lec14.pdf)
+ 9   | 9/21: [Neural Networks & Deep learning](lectures/lec15.pdf) | 9/23: [Natural Language Processing and Text Mining](lectures/lec16.pdf)
+ 10  | 9/28: [Time Series Analysis](lectures/lec17.pdf)    |
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
  10  |                                                     | 9/30: Database Technologies
