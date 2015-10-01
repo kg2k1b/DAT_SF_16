@@ -52,7 +52,7 @@ Week | Monday                                              | Wednesday
  10  | 9/28: [Time Series Analysis](lectures/lec17.pdf)    |
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
- 10  |                                                     | 9/30: Database Technologies
+ 10  |                                                     | 9/30: [Database Technologies](lectures/lec18.pdf)
  11  | 10/5: Map Reduce                                    | 10/7: Paralell and distributed computing
  12  | 10/12: Final project working session | 10/14: Final project presentations
 
