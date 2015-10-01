@@ -1,0 +1,35 @@
+It is a multi-dimensional regression problem
+
+
+linear regression in scikit-learn instead of ols so i have access to all the cross validation tools
+
+
+
+find best normalization method for time series or UN or world bank data time series
+
+Subsequence Clusterinf - slide 39
+look at the links in these slides...research paper
+
+
+Slide 40 in Lecture 17 for Distance Measures between similar time series 
+
+
+
+create features- features could be all the indices for each country combined
+
+
+look at Online time series
+
+timeseries - parametric or not?
+
+visualizing correlations
+look at lag plot for visualizing correlations - slide 58 Lecture 17
+
+
+Validation Bias slide 62-63
+
+
+Look up Francesco at Spire
+
+
+
