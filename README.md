@@ -53,7 +53,11 @@ Week | Monday                                              | Wednesday
      |                                                     |
      | **UNIT 4**                                          | **AT SCALE**
  10  |                                                     | 9/30: [Database Technologies](lectures/lec18.pdf)
+<<<<<<< HEAD
  11  | 10/5: Map Reduce                                    | 10/7: Paralell and distributed computing
+=======
+ 11  | 10/5: [Map Reduce](lectures/lec19.pdf)              | 10/7: Paralell and distributed computing
+>>>>>>> 4923e14387266bc4dd47d1b4bc22553274daca5e
  12  | 10/12: Final project working session | 10/14: Final project presentations
 
 
